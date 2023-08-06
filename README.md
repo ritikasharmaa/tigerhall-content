@@ -1,4 +1,4 @@
-
+This was the test I was given by tigerhall. The project is in typescript 
 **TigerHall**
 
 **Prerequisite**
